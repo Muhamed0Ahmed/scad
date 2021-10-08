@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+:root{
+  --AbouDhabiStatistics:#644243;
+  --Economy:#b5985a;
+  --Industy:#336d71;
+  --Population:#336d71;
+  --socialStatistics:#6c92a5;
+  --Labout:#769085;
+  --Agriculture:#a3ac73;
+  --white:white;
+  --light:#eaeaea;
+  --dark:rgb(34, 32, 32);
+  --RedScad:#940d0df5;
+
+  }
+  body{
+    background-color:#AAA;
+  }

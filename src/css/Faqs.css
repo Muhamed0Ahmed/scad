@@ -1,0 +1,10 @@
+.faqs-background{
+    background-color: var(--light);
+
+}
+.faqs .faq-cont .faq-cont-quation{
+    color: var(--RedScad);
+}
+.faqs .faq-cont{
+    padding:15px 10px;
+}

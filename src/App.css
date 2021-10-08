@@ -1,0 +1,84 @@
+.header-container{
+  border-bottom: 3px solid var(--RedScad);
+}
+  
+  /* Footer */
+  .footer{
+      background-color:black;
+      color:var(--light);
+      padding:10px 0px;
+
+  }
+  
+  .footer .footer2 .form-label {
+    min-width:130px;
+    font-size:16px;
+
+  }
+  .footer .footer2  button{
+      background-color:black;
+      border:0;
+      outline:0;
+
+  }
+  .footer .footer-subscrib button:focus{
+      border:0;
+      outline:0;
+  }
+  .footer .footer2 a{
+    background-color:var(--dark);
+    border-radius: 50% ;
+    margin:5px ;
+    padding:5px 5px;
+    width:30px;
+    height:30px;
+
+
+  }
+  .footer .footer2 a.btn:focus{
+    border:0;
+    outline:0;
+  }
+  
+  .footer .footer2 a.btn svg {
+    color:var(--white);
+    font-size:16px
+    
+    
+  }
+  .footer .footer2 a:hover {
+    background-color:orange;
+
+
+  }
+  .footer .footer2 a.facebook:hover {
+    background-color:#3b5998;
+
+
+  }
+  .footer .footer2 a.twitter:hover {
+    background-color:#00acee;
+
+
+  }
+  .footer .footer2 a.linkedin:hover{
+    background-color:#0e76a8;
+  }
+  .footer .footer2 a.youtube:hover{
+    background-color:red;
+  }
+  .footer .footer2 a.google:hover{
+    background-color:#ea4335
+  }
+  .last-footer button.navbar-toggler{
+    background-color: var(--dark);
+    color:var(--white);
+    
+  }
+  
+
+  /* .footer .footer2 a.:hover{
+    background-color:
+  } */
+
+
