@@ -1,5 +1,6 @@
 import React from "react";
 import "../App.css";
+import Icon from "../images/stat1.png"
 import {
   Container,
   Row,
@@ -186,7 +187,7 @@ function Footer() {
                     <Nav.Link href="/Vendors">Vendors</Nav.Link>
                     <Nav.Link href="/Tenders">Tenders</Nav.Link>
                     <Nav.Link href="/Contact">Contact </Nav.Link>
-                    <Nav.Link href="/WebMail">Webmail</Nav.Link>
+                    <Nav.Link href="https://mailscad.ae/owa/">Webmail</Nav.Link>
 
                     </Nav>
                   </Navbar.Collapse>

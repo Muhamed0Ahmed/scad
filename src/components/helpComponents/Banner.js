@@ -5,7 +5,7 @@ import Img1 from '../../images/bannerHome.PNG';
 function Banner() {
     return (
         <div>
-            <Container fluid="lg">
+            <Container>
             <Carousel>
         <Carousel.Item>
           <img

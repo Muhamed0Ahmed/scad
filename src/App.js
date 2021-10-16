@@ -12,6 +12,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import SiteMap from "./components/siteMap/SiteMap";
 import PrivacyPolicy from "./components/PrivacyPolicy";
+import ContactUs from "./components/ContactUs";
 
 function App() {
   return (
@@ -41,6 +42,9 @@ function App() {
           </Route>
           <Route path="/PrivacyPolicy">
             <PrivacyPolicy />
+          </Route>
+          <Route path="/contact">
+            <ContactUs/>
           </Route>
 
         </Switch>

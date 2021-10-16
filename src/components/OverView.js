@@ -1,11 +1,11 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-function OverView() {
-    return (
-        <div>
-            <h1>overview</h1>
-        </div>
-    )
+export default class OverView extends Component {
+    render() {
+        return (
+            <div>
+                overview
+            </div>
+        )
+    }
 }
-
-export default OverView
